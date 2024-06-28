@@ -1,5 +1,5 @@
 
-# Olá seja bem vindo! Me chamo Matheus
+# Olá seja bem vindo! Me chamo Matheus.
 ## Venha saber um pouco mais sobre mim!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-oliveira-5779721a6/)
