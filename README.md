@@ -2,7 +2,7 @@
 # Olá! Seja bem vindo!
 <P> Venha saber um pouco mais sobre mim! </P>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-oliveira-5779721a6/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuszol/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/math_szx/)   
 
 #### Olá! Sou Matheus, de São Paulo, fascinado por tecnologia e desenvolvimento de software desde cedo. Atuei como Analista de Dados Júnior na maior empresa de iGaming da América Latina e tenho experiência em tecnologias como Python, SQL, TypeScript e JavaScript. Estou em busca de novas oportunidades para expandir meu conhecimento e contribuir com projetos desafiadores!
