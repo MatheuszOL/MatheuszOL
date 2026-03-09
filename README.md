@@ -41,8 +41,8 @@
 
 ### 🎓 Education
 
-* **B.S. in Computer Science** – Universidade Cidade de São Paulo (Expected Dec 2028).
-* **IT Technician** – ETEC Aprígio Gonzaga (Completed 2022).
+* **B.S. in Computer Science** – Universidade Cidade de São Paulo.
+* **IT Technician** – ETEC Aprígio Gonzaga.
 
 ---
 </p>
