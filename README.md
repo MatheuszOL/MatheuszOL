@@ -1,27 +1,48 @@
-# Hi, I'm Matheus 👋
+# Matheus Oliveira | Data Engineer 👋
 
-I'm a data engineer interested in the parts of data platforms that make a real difference day to day: dependable pipelines, clear data contracts, useful quality checks, and performance you can measure.
+### Data Governance & Lakehouse Architecture
 
-In my professional work, I have contributed to large-scale data processing and pipeline automation. The public repositories here are independent studies; they do not expose workplace data or claim to reproduce employer outcomes.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuszol/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathp874@gmail.com)
 
-## What I'm building in public
+#### Data Engineer specializing in scalable pipelines and modern Lakehouse architectures. Expert in large-scale data processing (+500M records) and implementing automation frameworks that significantly increase operational efficiency.
 
-- **[Medallion Lakehouse](https://github.com/MatheuszOL/flagship-medallion-lakehouse)** — a hands-on study of layered data processing, replay safety, late-arriving events, and data quality. The repository is an engineering experiment, not a claim of production deployment.
-- **[Spark Performance Tuning Framework](https://github.com/MatheuszOL/efficiency-performance-tuning-framework)** — a study framework for comparing Spark approaches with reproducible measurements and clearly stated limitations.
-- **[AI Agent Engineering Practices](https://github.com/MatheuszOL/melhores-praticas-agentes-ia)** — a practical kit for breaking engineering work into reviewable tasks, assigning focused roles, and validating changes with bounded test-and-rethink cycles.
-- **[Personal Finance App](https://github.com/MatheuszOL/controle-financeiro)** — a local-first application focused on careful imports, auditability, and keeping personal data on the user's machine.
+---
 
-These repositories are independent learning and portfolio projects. I label experiments as experiments, document what is and is not validated, and avoid presenting synthetic results as production evidence.
+### 💼 Technical Experience & Value Delivery
 
-## How I approach data engineering
+* **Large-Scale Data Engineering:** Development and maintenance of production ETL/ELT pipelines under Medallion Architecture (Bronze, Silver, Gold), utilizing PySpark, Delta Lake, and Spark on Databricks.
+* **Architecture & Automation:** Designing scalable ingestion frameworks and orchestrating complex workflows via Apache Airflow and Azure Data Factory (ADF), reducing operational times from 24 hours to under 20 minutes.
+* **Governance & Quality:** Implementing Data Quality practices and sensitive data governance (LGPD) using Microsoft Purview, interacting directly with Internal Audit stakeholders.
+* **Cloud Infrastructure:** Managing data processing within Data Lakes (ADLS) and implementing robust CI/CD pipelines for automated deployments in cloud environments.
 
-I work with Python, SQL, PySpark, Spark, Delta Lake, Databricks, Azure Data Lake, Airflow, and Azure Data Factory. I care about the full lifecycle: understanding the source, defining grain and contracts, handling retries and late data, testing failure paths, and making operations understandable to the next person.
+---
 
-## Current focus
+### 🛠️ Technologies & Tools
 
-- Make the lakehouse replay-safe and test how it handles duplicate and late events.
-- Build a fair Spark benchmark with equal timing boundaries, repeated runs, and enough context to reproduce the result.
-- Add clear contracts, quality checks, and operational notes to the examples.
-- Improve the projects in small, reviewable changes and keep evidence close to each claim.
+<div style="display: inline_block">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+    <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+    <img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img alt="Delta Lake" src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white" />
+    <img alt="ADLS" src="https://img.shields.io/badge/ADLS_Gen2-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <br>
+    <img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+    <img alt="Purview" src="https://img.shields.io/badge/Purview-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="PowerBI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+    <img alt="Scrum" src="https://img.shields.io/badge/Agile-000000?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+</div>
 
-I have a B.S. in Computer Science from Universidade Cidade de São Paulo and an IT Technician qualification from ETEC Aprígio Gonzaga.
+---
+
+### 🎓 Education
+
+* **B.S. in Computer Science** – Universidade Cidade de São Paulo.
+* **IT Technician** – ETEC Aprígio Gonzaga.
+
+---
+</p>
